@@ -7,7 +7,7 @@ import cv2
 import os
 
 
-Kamera = cv2.VideoCapture('http://192.168.1.101:8080/video')
+Kamera = cv2.VideoCapture('http://192.168.1.103:8080/video')
 execution_path = os.getcwd()
 
 
